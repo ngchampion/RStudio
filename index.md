@@ -1,6 +1,6 @@
 ## RStudio Homework #6
 
-[RStudio Model Code](./RStudio_GGPlot_Graphs)
+[RStudio Model Code](./RStudio_Model_Code)
 
 
 [RStduio GGPlot Graphs](./RStudio_GGPlots_Graphs)
