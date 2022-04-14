@@ -3,4 +3,4 @@
 [RStudio Model Code](./RStudio_Model_Code)
 
 
-[RStduio GGPlot Graphs](./RStudio_GGPlots_Graphs)
+[RStduio GGPlot Graphs](./RStudio_GGPlot_Graphs)
